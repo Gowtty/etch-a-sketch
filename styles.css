@@ -43,14 +43,14 @@ p {
 
 button {
     margin: 20px;
-    width: 100px;
+    width: 120px;
     height: 50px;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     font-weight: bolder;
 }
 input{
-    width: 100px;
+    width: 120px;
     height: 50px;
     margin: 20px;
 }
